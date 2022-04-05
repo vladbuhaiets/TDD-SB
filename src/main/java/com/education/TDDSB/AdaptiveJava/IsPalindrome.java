@@ -1,7 +1,5 @@
 package com.education.TDDSB.AdaptiveJava;
 
-import org.springframework.util.StringUtils;
-
 public class IsPalindrome {
 
 
